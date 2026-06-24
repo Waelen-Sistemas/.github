@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="Logo da Veleia" width="160"/>
+<img src="./image/Logo 1 .png" alt="Logo da Baleia Software" width="160"/>
 
-# Veleia
+# Baleia Software
 
 ### Tecnologia para organizar, cuidar e guiar.
 
@@ -16,7 +16,7 @@ Nossa identidade nasce de uma baleia azul: um símbolo de calma, cuidado, profun
 
 ## Sobre a empresa
 
-A **Veleia** é uma empresa voltada para o desenvolvimento de sistemas, aplicativos web e mobile, com foco em produtos digitais que ajudam pessoas a se organizarem melhor, tomarem decisões com mais clareza e viverem com mais equilíbrio.
+A **Baleia Software** é uma empresa voltada para o desenvolvimento de sistemas, aplicativos web e mobile, com foco em produtos digitais que ajudam pessoas a se organizarem melhor, tomarem decisões com mais clareza e viverem com mais equilíbrio.
 
 Nosso objetivo é criar soluções que unam:
 
@@ -87,7 +87,7 @@ Principais ideias:
 
 ## Identidade visual
 
-A identidade da Veleia é inspirada em uma baleia de pelúcia azul, que representa:
+A identidade da Baleia Software é inspirada em uma baleia de pelúcia azul, que representa:
 
 | Elemento | Significado |
 |---|---|
@@ -162,7 +162,7 @@ As tecnologias podem variar conforme cada produto, mas a base inicial da empresa
 ## Estrutura inicial dos projetos
 
 ```txt
-veleia/
+Baleia Software/
 ├── apps/
 │   ├── finance-pessoal/
 │   ├── finance-inteligente/
