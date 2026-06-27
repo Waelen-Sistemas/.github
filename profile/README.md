@@ -6,25 +6,72 @@
 
 ### Tecnologia para organizar, cuidar e guiar.
 
-Somos uma empresa de software em fase inicial, criada com o propósito de desenvolver aplicativos simples, bonitos e úteis para o dia a dia das pessoas.
+A Baleia Sistemas é uma empresa de software em fase inicial, criada para desenvolver sistemas web, aplicativos e soluções digitais que unem tecnologia, simplicidade e cuidado com a experiência do usuário.
 
-Nossa identidade nasce de uma baleia azul: um símbolo de calma, cuidado, profundidade, confiança e leveza. Acreditamos que bons sistemas não precisam ser frios ou complicados. Eles podem ser acolhedores, claros e humanos.
-
-</div>
+Nosso foco é criar produtos digitais que sejam fáceis de usar, visualmente agradáveis e úteis no dia a dia de pessoas, empresas e comunidades.
 
 ---
 
-## Sobre a empresa
+## O que fazemos
 
-A **Baleia Software** é uma empresa voltada para o desenvolvimento de sistemas, aplicativos web e mobile, com foco em produtos digitais que ajudam pessoas a se organizarem melhor, tomarem decisões com mais clareza e viverem com mais equilíbrio.
+- Desenvolvimento de sistemas web
+- Aplicativos mobile
+- Landing pages
+- Dashboards administrativos
+- Automações de processos
+- Produtos digitais próprios
 
-Nosso objetivo é criar soluções que unam:
+---
 
-- Tecnologia;
-- Simplicidade;
-- Design acolhedor;
-- Organização;
-- Confiança;
-- Cuidado com o usuário.
+## Projetos em desenvolvimento
 
-Começamos com três projetos principais: dois voltados à área financeira e um voltado à liturgia diária.
+Atualmente, estamos trabalhando em três frentes principais:
+
+### Aplicativos financeiros
+
+Soluções para organização financeira, controle de gastos, metas e visão clara da vida financeira.
+
+### Aplicativo de liturgia diária
+
+Um app voltado para leitura diária, espiritualidade, aprendizado bilíngue e acompanhamento da liturgia católica.
+
+### Soluções sob medida
+
+Sistemas personalizados para empresas que precisam organizar processos, dados e rotinas internas.
+
+---
+
+## Nossa visão
+
+Acreditamos que bons sistemas não precisam ser frios, confusos ou difíceis de usar.
+
+Queremos criar softwares que transmitam:
+
+- Clareza
+- Organização
+- Confiança
+- Simplicidade
+- Cuidado com o usuário
+- Beleza visual
+
+---
+
+## Tecnologias
+
+Algumas tecnologias que utilizamos ou estudamos em nossos projetos:
+
+- React
+- Next.js
+- React Native / Expo
+- Node.js
+- TypeScript
+- Tailwind CSS
+- PostgreSQL
+- GitHub
+
+---
+
+## Contato
+
+E-mail: softwarebaleia@gmail.com  
+Brasil
