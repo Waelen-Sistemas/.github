@@ -2,7 +2,7 @@
 
 <img src="./image/Logo 1 .png" alt="Logo da Baleia Software" width="160"/>
 
-# Baleia Software
+# Baleia Sistemas
 
 ### Tecnologia para organizar, cuidar e guiar.
 
