@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="./image/Logo 1 .png" alt="Logo da Baleia Software" width="160"/>
+<img src="./image/traditional-light-horizontal.svg" alt="Waelen Systems" width="360"/>
 
-# Baleia Sistemas
+# Waelen Systems
 
 ### Tecnologia para organizar, cuidar e guiar.
 
-A Baleia Sistemas é uma empresa de software em fase inicial, criada para desenvolver sistemas web, aplicativos e soluções digitais que unem tecnologia, simplicidade e cuidado com a experiência do usuário.
+A Waelen Sistemas Ltda. é uma empresa brasileira de software que desenvolve sistemas web, aplicativos e soluções digitais, unindo tecnologia, simplicidade e cuidado com a experiência do usuário.
 
 Nosso foco é criar produtos digitais que sejam fáceis de usar, visualmente agradáveis e úteis no dia a dia de pessoas, empresas e comunidades.
+
+</div>
 
 ---
 
@@ -73,5 +75,5 @@ Algumas tecnologias que utilizamos ou estudamos em nossos projetos:
 
 ## Contato
 
-E-mail: softwarebaleia@gmail.com<br>
+E-mail: waelensystems@gmail.com<br>
 Brasil
