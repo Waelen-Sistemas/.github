@@ -1,57 +1,77 @@
 <div align="center">
 
-<img src="./image/Logo 1 .png" alt="Waelen Systems Logo" width="150"/>
+<img src="./image/Logo 1 .png" alt="Logo da Baleia Software" width="160"/>
 
-# Waelen Systems
+# Baleia Sistemas
 
-### Engineering Software. Simplifying Complexity.
+### Tecnologia para organizar, cuidar e guiar.
 
-**Custom Software Development · Web & Mobile Applications · Digital Solutions**
+A Baleia Sistemas é uma empresa de software em fase inicial, criada para desenvolver sistemas web, aplicativos e soluções digitais que unem tecnologia, simplicidade e cuidado com a experiência do usuário.
 
-Waelen Systems is a Brazilian software company focused on building reliable, scalable, and user-centered digital solutions.
-
-We combine software engineering, thoughtful design, and practical problem-solving to help businesses streamline operations and turn ideas into functional products.
-
-</div>
+Nosso foco é criar produtos digitais que sejam fáceis de usar, visualmente agradáveis e úteis no dia a dia de pessoas, empresas e comunidades.
 
 ---
 
-## What We Do
+## O que fazemos
 
-- **Custom Software Development** — Tailored solutions for business needs.
-- **Web & Mobile Applications** — Modern, responsive, and intuitive applications.
-- **Process Automation** — Streamlined workflows and reduced manual effort.
-- **Systems Integration** — APIs, third-party services, and connected platforms.
-- **Digital Products** — Development and continuous improvement of our own software products.
-
-## Technology Stack
-
-| Area | Technologies |
-|---|---|
-| Frontend | React, Next.js, TypeScript |
-| Mobile | React Native, Expo |
-| Backend | Node.js, NestJS, Python |
-| Databases | PostgreSQL, MySQL, SQLite |
-| Infrastructure | Docker, GitHub Actions, Cloudflare |
-| UI & Styling | Tailwind CSS |
-
-## Our Approach
-
-We believe great software should be **simple to use, reliable by design, and built to evolve**.
-
-Our work prioritizes clean architecture, maintainable code, security, and meaningful user experiences.
+- Desenvolvimento de sistemas web
+- Aplicativos mobile
+- Landing pages
+- Dashboards administrativos
+- Automações de processos
+- Produtos digitais próprios
 
 ---
 
-<div align="center">
+## Projetos em desenvolvimento
 
-### Let's Build Something Meaningful
+Atualmente, estamos trabalhando em três frentes principais:
 
-**Waelen Systems** · Waelen Sistemas Ltda.  
-Maringá, Paraná, Brazil
+### Aplicativos financeiros
 
-**Contact:** waelensystems@gmail.com
+Soluções para organização financeira, controle de gastos, metas e visão clara da vida financeira.
 
-*Technology with purpose. Software built to make a difference.*
+### Aplicativo de liturgia diária
 
-</div>
+Um app voltado para leitura diária, espiritualidade, aprendizado bilíngue e acompanhamento da liturgia católica.
+
+### Soluções sob medida
+
+Sistemas personalizados para empresas que precisam organizar processos, dados e rotinas internas.
+
+---
+
+## Nossa visão
+
+Acreditamos que bons sistemas não precisam ser frios, confusos ou difíceis de usar.
+
+Queremos criar softwares que transmitam:
+
+- Clareza
+- Organização
+- Confiança
+- Simplicidade
+- Cuidado com o usuário
+- Beleza visual
+
+---
+
+## Tecnologias
+
+Algumas tecnologias que utilizamos ou estudamos em nossos projetos:
+
+- React
+- Next.js
+- React Native / Expo
+- Node.js
+- TypeScript
+- Tailwind CSS
+- PostgreSQL
+- GitHub
+
+---
+
+## Contato
+
+E-mail: softwarebaleia@gmail.com<br>
+Brasil
