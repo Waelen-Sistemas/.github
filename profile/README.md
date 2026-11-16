@@ -2,8 +2,6 @@
 
 <img src="./image/traditional-light-horizontal.svg" alt="Waelen Systems" width="360"/>
 
-# Waelen Systems
-
 ### Tecnologia para organizar, cuidar e guiar.
 
 A Waelen Sistemas Ltda. é uma empresa brasileira de software que desenvolve sistemas web, aplicativos e soluções digitais, unindo tecnologia, simplicidade e cuidado com a experiência do usuário.
